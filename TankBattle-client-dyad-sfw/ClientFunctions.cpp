@@ -166,7 +166,7 @@ void CreateDefaultGlobalData(GlobalData* gd)
 	(gd)->WindowWidth = (gd)->ActualWindowWidth - 400;
 	(gd)->WindowHeight = (gd)->ActualWindowHeight;
 	(gd)->MyPlayerID = -1;
-	(gd)->ServerIPAddress = "10.15.22.31"; //Connor's IP: 10.15.22.125, Jakobob IP: 10.15.22.81 //Dedicated: 10.15.22.31
+	(gd)->ServerIPAddress = "10.15.22.73"; //Connor's IP: 10.15.22.125, Jakobob IP: 10.15.22.81 //Dedicated: 10.15.22.31, Torny: 
 
 	(gd)->ManualOverride = false;
 	(gd)->ReachedDestination = true;
